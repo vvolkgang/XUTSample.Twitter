@@ -30,7 +30,7 @@ namespace Evolve2016Twitter.UITest
 
             _app.TapAndWait(_queries.LoginButton, _queries.OkButton, "When I tap the Login button, I can see the Logged in view");
 
-            _app.Tap(_queries.OkButton); //Twitter would like to use your location
+            _app.Tap(_queries.OkButton); //NOTE(alison) this is the "Twitter would like to use your location" dialog
 
             _app.Screenshot("After I login, I can see the twitter timeline");
 
