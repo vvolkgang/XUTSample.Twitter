@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolve2016Twitter", "Evolve2016Twitter\Evolve2016Twitter.csproj", "{F2102468-5D9E-4F53-98B4-40091AA12973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - Android|Any CPU = Debug - Android|Any CPU
+		Debug - iOS|Any CPU = Debug - iOS|Any CPU
+		Debug - iOSDevice|Any CPU = Debug - iOSDevice|Any CPU
+		Release - Android|Any CPU = Release - Android|Any CPU
+		Release - iOS Device|Any CPU = Release - iOS Device|Any CPU
+		Release - iOS|Any CPU = Release - iOS|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Debug - Android|Any CPU.ActiveCfg = Debug - Android|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Debug - Android|Any CPU.Build.0 = Debug - Android|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Debug - iOS|Any CPU.ActiveCfg = Debug - iOS|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Debug - iOS|Any CPU.Build.0 = Debug - iOS|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Debug - iOSDevice|Any CPU.ActiveCfg = Debug - iOSDevice|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Debug - iOSDevice|Any CPU.Build.0 = Debug - iOSDevice|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Release - Android|Any CPU.ActiveCfg = Release - Android|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Release - Android|Any CPU.Build.0 = Release - Android|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Release - iOS Device|Any CPU.ActiveCfg = Release - iOS Device|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Release - iOS Device|Any CPU.Build.0 = Release - iOS Device|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Release - iOS|Any CPU.ActiveCfg = Release - iOS|Any CPU
+		{F2102468-5D9E-4F53-98B4-40091AA12973}.Release - iOS|Any CPU.Build.0 = Release - iOS|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
